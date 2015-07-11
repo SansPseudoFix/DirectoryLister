@@ -14,6 +14,10 @@ body.breadcrumb-fixed {
     max-width: 960px;
 }
 
+@font-face{
+    font-family: 'Cutive Mono';
+    src: url('resources/themes/bootstrap/fonts/CutiveMono/src/CutiveMono-Regular.otf');
+}
 
 /* -------------------------------------------------------------------------- */
 /* -----| HEADER |----------------------------------------------------------- */
