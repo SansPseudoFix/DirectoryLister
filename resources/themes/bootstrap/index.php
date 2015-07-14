@@ -14,9 +14,8 @@
 
         <!-- SCRIPTS -->
         <script type="text/javascript" src="<?php echo THEMEPATH; ?>/js/jquery-2.1.4.min.js"></script>
-        <script src="<?php echo THEMEPATH; ?>/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="<?php echo THEMEPATH; ?>/js/bootstrap.min.js"></script>
         <script type="text/javascript" src="<?php echo THEMEPATH; ?>/js/directorylister.js"></script>
-
 
         <!-- META -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">

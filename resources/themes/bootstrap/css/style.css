@@ -16,7 +16,7 @@ body.breadcrumb-fixed {
 
 @font-face{
     font-family: 'Cutive Mono';
-    src: url('resources/themes/bootstrap/fonts/CutiveMono/CutiveMono-Regular.otf');
+    src: url('../fonts/CutiveMono/CutiveMono-Regular.ttf');
 }
 
 /* -------------------------------------------------------------------------- */
